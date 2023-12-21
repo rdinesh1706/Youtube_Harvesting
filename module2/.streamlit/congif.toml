@@ -1,0 +1,6 @@
+[theme]
+base="dark"
+backgroundColor="#dcd494"
+
+    st.markdown("<h1 style='text-align:center;font-family:Georgia;background-color: #DCD494;border: 2px solid red;border-radius: 25px;,'>Youtube Harvesting Project</h1>",
+                unsafe_allow_html=True)
